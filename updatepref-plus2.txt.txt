@@ -1,1 +1,0 @@
-{ ver1 : WhatsApp , ver2 : Tarim2030 }
